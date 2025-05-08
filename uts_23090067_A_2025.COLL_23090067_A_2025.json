@@ -1,0 +1,51 @@
+[{
+  "_id": {
+    "$oid": "681c0bb122198a24873e8308"
+  },
+  "nama": "Pulpen",
+  "harga": 5000,
+  "warna": "Hijau"
+},
+{
+  "_id": {
+    "$oid": "681c0bb122198a24873e8309"
+  },
+  "nama": "Tas",
+  "harga": 150000,
+  "warna": "Hitam",
+  "stok": 10
+},
+{
+  "_id": {
+    "$oid": "681c0ec1db3699fdc3c6e7d4"
+  },
+  "nama": "Pulpen",
+  "harga": 5000,
+  "warna": "Biru"
+},
+{
+  "_id": {
+    "$oid": "681c0ec1db3699fdc3c6e7d5"
+  },
+  "nama": "Tas",
+  "harga": 150000,
+  "warna": "Hitam",
+  "stok": 10
+},
+{
+  "_id": {
+    "$oid": "681c125c5acf97e4bc853221"
+  },
+  "nama": "Pulpen",
+  "harga": 5000,
+  "warna": "Biru"
+},
+{
+  "_id": {
+    "$oid": "681c125c5acf97e4bc853222"
+  },
+  "nama": "Tas",
+  "harga": 150000,
+  "warna": "Hitam",
+  "stok": 10
+}]
